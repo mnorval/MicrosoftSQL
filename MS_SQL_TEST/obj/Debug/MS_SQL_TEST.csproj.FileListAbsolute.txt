@@ -1,0 +1,9 @@
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\bin\Debug\MS_SQL_TEST.exe.config
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\obj\Debug\MS_SQL_TEST.csprojResolveAssemblyReference.cache
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\obj\Debug\MS_SQL_TEST.Main.resources
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\obj\Debug\MS_SQL_TEST.Properties.Resources.resources
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\obj\Debug\MS_SQL_TEST.csproj.GenerateResource.Cache
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\bin\Debug\MS_SQL_TEST.exe
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\bin\Debug\MS_SQL_TEST.pdb
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\obj\Debug\MS_SQL_TEST.exe
+E:\Documents\Dropbox\Personal\Development\C#\MS_SQL_TEST\MS_SQL_TEST\obj\Debug\MS_SQL_TEST.pdb
